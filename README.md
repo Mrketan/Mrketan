@@ -16,8 +16,6 @@ Databases:  MySQL
 I am always eager to learn and explore new technologies and methodologies. I believe in continuous learning and staying updated with the latest trends in the ever-evolving world of software development.
 
 📫 Let's Connect:
-
-GitHub: [Your GitHub Profile URL]
 LinkedIn: https://www.linkedin.com/in/ketan-patil-62629121b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 Email: patilketan1303@gmail.com
 Feel free to explore my repositories and projects. I'm open to collaboration and always excited to work on interesting and challenging projects. Let's code something amazing together! 🚀
