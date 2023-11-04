@@ -7,11 +7,11 @@ Develop robust and efficient backend systems
 Create interactive WEB APPLICATION
 Contribute to open-source projects and collaborate with the developer community
 💼 Professional Experience:
-I have [ of experience in software development, working on diverse projects ranging from [mention any specific projects or industries you've worked in]. I thrive in collaborative environments and enjoy being part of a team that is passionate about innovation and excellence.ck:
+I have experience in software development. I thrive in collaborative environments and enjoy being part of a team that is passionate about innovation and excellence.
 
 Languages: JAVA,C++,C,PYTHON,HTML,CSS.
 Frontend: ANGULAR JS,JavaScript.
-Databases:  MySQL
+Databases:  MySQL,MONGO DB.
 🌱 Learning & Growth:
 I am always eager to learn and explore new technologies and methodologies. I believe in continuous learning and staying updated with the latest trends in the ever-evolving world of software development.
 
