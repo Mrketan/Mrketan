@@ -170,8 +170,9 @@
 
 <div style="margin-top: 15px;">
 <a href="mailto:patilketan1303@gmail.com" style="background: white; color: #667eea; padding: 10px 20px; border-radius: 25px; text-decoration: none; font-weight: bold; margin: 5px;">📧 Email Me</a>
-<a href="https://linkedin.com/in/yourprofile" style="background: #0A66C2; color: white; padding: 10px 20px; border-radius: 25px; text-decoration: none; font-weight: bold; margin: 5px;">💼 LinkedIn</a>
-<a href="https://github.com/yourusername" style="background: #181717; color: white; padding: 10px 20px; border-radius: 25px; text-decoration: none; font-weight: bold; margin: 5px;">🐱 GitHub</a>
+<a href="www.linkedin.com/in/ketan-patil-webdeveloper" style="background: #0A66C2; color: white; padding: 10px 20px; border-radius: 25px; text-decoration: none; font-weight: bold; margin: 5px;">💼 LinkedIn</a>
+
+  <a href="https://ketanpatil.netlify.app/" style="background: #181717; color: white; padding: 10px 20px; border-radius: 25px; text-decoration: none; font-weight: bold; margin: 5px;">🐱 Portfolio</a>
 </div>
 
 <p style="margin-top: 20px;">✨ <strong>Let's build something amazing together!</strong> ✨</p>
@@ -179,6 +180,4 @@
 
 ---
 
-<div align="center">
-<p><small>Last Updated: March 2024 | ⚡ Powered by Passion for Development</small></p>
-</div>
+
