@@ -129,15 +129,6 @@ Automated RC verification solution
 
 </div>
 
-### 🐍 Contribution Snake
-
-<div align="center">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mrketan/Mrketan/output/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mrketan/Mrketan/output/snake-light.svg">
-  <img src="https://raw.githubusercontent.com/Mrketan/Mrketan/output/snake-dark.svg" alt="contribution snake" width="100%" />
-</picture>
-</div>
 
 
 
