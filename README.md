@@ -139,9 +139,7 @@ Automated RC verification solution
 </picture>
 </div>
 
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Mrketan&theme=darkhub&no-frame=true&column=7&margin-w=10&margin-h=10" alt="trophies" />
-</div>
+
 
 <img src="https://capsule-render.vercel.app/api?type=rounded&color=0:7C3AED,50:22D3EE,100:10B981&height=90&section=header&text=Let's%20Connect&fontSize=34&fontColor=ffffff&fontAlignY=55&animation=fadeIn" width="100%" />
 
