@@ -4,8 +4,6 @@
   <img src="dark.svg" alt="Ketan Patil — Full Stack Web Developer">
 </picture>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:7C3AED,50:22D3EE,100:10B981&height=90&section=header&text=&fontSize=0" />
-
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com/?lines=Hi+there,+I'm+Ketan+%F0%9F%91%8B;Full+Stack+Web+Developer;PHP+%26+CodeIgniter+4+Specialist;React.js+%26+TypeScript+Developer;Building+scalable+web+apps+%F0%9F%9A%80&font=Fira+Code&center=true&width=600&height=45&duration=2500&pause=800&color=22D3EE&vCenter=true&size=22" alt="typing banner" />
@@ -17,29 +15,28 @@
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:0F172A&height=2" />
+<br>
 
-## 🚀 About Me
-
-I'm a results-driven **Full Stack Web Developer** with 2+ years of professional experience designing, developing, and deploying scalable web applications, RESTful APIs, and secure payment platforms. I've delivered **30+ projects** across Fintech, Education, E-commerce, Healthcare, Real Estate, and Corporate domains — consistently improving performance, security, and user experience.
+<blockquote>
+<em>"I debug PHP with one hand and design UIs with the other — code that works and looks good isn't a trade-off, it's the job."</em>
+</blockquote>
 
 ```yaml
 name: Ketan Patil
 role: Full Stack Web Developer
-location: Pune, Maharashtra, India
+experience: 2+ years | 30+ projects shipped
+domains: [Fintech, Education, E-commerce, Healthcare, Real Estate]
 current_focus: "Building scalable platforms @ The Brand Bugzz"
 currently_exploring: [React Ecosystem, Technical SEO, Microservices]
-fun_fact: "I debug PHP with one hand and design UIs with the other 😄"
+status: "Available — 30 day notice period"
 ```
 
-<br>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=transparent&color=auto&height=40&section=header" />
 
-## 🛠️ Tech Stack
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:7C3AED,50:22D3EE,100:10B981&height=90&section=header&text=Tech%20Stack&fontSize=38&fontColor=ffffff&fontAlignY=55&animation=fadeIn" width="100%" />
 
 <div align="center">
-
 <img src="https://skillicons.dev/icons?i=php,js,ts,react,nodejs,mysql,redis,wordpress,tailwind,git,figma,postman&theme=dark" alt="tech stack icons" />
-
 <br><br>
 
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter_4-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
@@ -47,12 +44,15 @@ fun_fact: "I debug PHP with one hand and design UIs with the other 😄"
 ![WooCommerce](https://img.shields.io/badge/WooCommerce-96588A?style=for-the-badge&logo=woocommerce&logoColor=white)
 ![Razorpay](https://img.shields.io/badge/Razorpay-0C2451?style=for-the-badge&logo=razorpay&logoColor=white)
 ![Apache](https://img.shields.io/badge/Apache/Nginx-D22128?style=for-the-badge&logo=apache&logoColor=white)
-
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:0F172A&height=2" />
+<br>
 
-## 💡 Featured Projects
+<div align="center">
+<img src="skills-bar.svg" alt="skill proficiency bars" width="720" />
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:7C3AED,50:22D3EE,100:10B981&height=90&section=header&text=Featured%20Projects&fontSize=34&fontColor=ffffff&fontAlignY=55&animation=fadeIn" width="100%" />
 
 <table>
 <tr>
@@ -116,9 +116,7 @@ Automated RC verification solution
 </tr>
 </table>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:0F172A&height=2" />
-
-## 📊 GitHub Stats
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:7C3AED,50:22D3EE,100:10B981&height=90&section=header&text=GitHub%20Analytics&fontSize=32&fontColor=ffffff&fontAlignY=55&animation=fadeIn" width="100%" />
 
 <div align="center">
 
@@ -131,15 +129,21 @@ Automated RC verification solution
 
 </div>
 
-## 🏆 Trophies
+### 🐍 Contribution Snake
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mrketan/Mrketan/output/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Mrketan/Mrketan/output/snake-light.svg">
+  <img src="https://raw.githubusercontent.com/Mrketan/Mrketan/output/snake-dark.svg" alt="contribution snake" width="100%" />
+</picture>
+</div>
 
 <div align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=Mrketan&theme=darkhub&no-frame=true&column=7&margin-w=10&margin-h=10" alt="trophies" />
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:0F172A,100:0F172A&height=2" />
-
-## 🔗 Connect With Me
+<img src="https://capsule-render.vercel.app/api?type=rounded&color=0:7C3AED,50:22D3EE,100:10B981&height=90&section=header&text=Let's%20Connect&fontSize=34&fontColor=ffffff&fontAlignY=55&animation=fadeIn" width="100%" />
 
 <div align="center">
 
