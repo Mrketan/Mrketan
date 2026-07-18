@@ -1,7 +1,7 @@
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="light.svg">
-  <img src="dark.svg" alt="Ketan Patil — Full Stack Web Developer">
+ 
 </picture>
 
 <div align="center">
